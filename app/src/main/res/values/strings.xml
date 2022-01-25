@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Spinner Walther</string>
+    <string name="txt_nun1">Primer Valor</string>
+    <string name="txt_nun2">Segundo Valor</string>
+    <string name="botton">CALCULAR</string>
+    <string name="tv_resultado">RESULTADO</string>
+</resources>
